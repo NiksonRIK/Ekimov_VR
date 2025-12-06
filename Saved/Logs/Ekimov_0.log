@@ -1147,3 +1147,10 @@ The following settings have been applied:
 [2025.12.06-10.06.11:643][591]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2025.12.06-10.06.11:843][591]LogExit: Editor shut down
 [2025.12.06-10.06.11:847][591]LogExit: Transaction tracking system shut down
+[2025.12.06-10.06.14:390][591]LogExit: Object subsystem successfully closed.
+[2025.12.06-10.06.14:493][591]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.06-10.06.15:972][591]MemoryProfiler: Shutdown
+[2025.12.06-10.06.15:982][591]NetworkingProfiler: Shutdown
+[2025.12.06-10.06.15:982][591]LoadingProfiler: Shutdown
+[2025.12.06-10.06.15:982][591]TimingProfiler: Shutdown
+[2025.12.06-10.06.16:730][591]LogOpenImageDenoise: OIDN shutting down
